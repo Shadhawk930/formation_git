@@ -2,6 +2,7 @@
 /*
 # ne pas ignorer 
 !.gitignore
+!demo1.txt
 !README.md
 !logo*
 !/TESTS
